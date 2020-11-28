@@ -1,3 +1,8 @@
+*.json
+Google.py
+makePlaylist.py
+*.pickle
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
